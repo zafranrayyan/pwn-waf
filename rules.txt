@@ -1,0 +1,6 @@
+# Aturan IDS untuk mendeteksi pola jahat
+ Rule 1: /admin/login.php
+ Rule 2: UNION SELECT
+ Rule 3: <script>
+ Rule 4: botnet_ip_1
+ Rule 5: bad_crawler_1
